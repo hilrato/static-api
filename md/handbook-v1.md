@@ -46,8 +46,38 @@ Homework was turned in on time and it shows effort and great quality.
 **Makeup Packet: Attendance plays a critical role in learning code. Therefore, there will be no refund for a missed class. Instead, we will provide a makeup packet that consists of lecture slides, videos, written instructions, and exercises.** 
 Please understand that preparing a makeup packet takes our effort and time and it is a way for us to support absentees. Because when we make it, we make sure that it’s detailed enough for absentees to work on the missed material on their own with ease. 
 
-* However, If there is a class with the same level and progress as the missed class, a student may take the class instead of receiving the makeup packet. 
+☑ However, If there is a class with the same level and progress as the missed class, a student may take the class instead of receiving the makeup packet. 
 
+**Absent Notice:**  We still need to be notified of a student’s absence from parents at least 24 hours prior to the class time as it allows us to prepare a makeup packet properly. To notify us of your student’s absence, please email us at btreecode@gmail.com or text us at 949.409.1341.
 
+## Private Class Absent Policy
 
+We would need to be notified of a student’s absence from parents at least 24 hours prior to the class so we can reschedule. If we did not get notified within 24 hours, half of the tuition will be charged as our instructor should have been ready for the class.
+
+Please notify us of your student’s absence by emailing us at btreecode@gmail.com or text us at 949.409.1341.
+
+## Vacation Policy
+
+***If your student needs to be absent for more than three weeks, we would need to be notified at least 7 days prior to the class.*** Then, we will freeze your account. When your student returns, we will determine if he or she needs to take private supplementary sessions to learn all of the missed material before coming back to his or her regular class. 
+
+# Tuition Payment Policy
+
+We send a monthly tuition statement in the last week of each month for the following month. The monthly payment is due by the first class of each month. If payments are not made by the first week, it may result in a forfeit of your student’s position in the class. Tuition is non-refundable. 
+
+### A) Forms of Tuition Payment Accepted
+
+-  Check (Payable to Btree Code Academy)
+-  Venmo (Account: @btreecode | last 4 digits of Phone Number: 9102)
+-  Zelle (Email address: btreecode@gmail.com)
+-  Bank Transfer
+
+### Sibling Discount
+
+We offer a sibling discount. Your second student will get 10% off of their tuition. However, when both siblings take the same online class, the younger sibling will get 30% off from their tuition. 
+
+# Withdrawal Policy
+
+Please contact us early if you have concerns about your student’s progress or are dissatisfied with the program. We are committed to making sure that every student has a great learning experience at Btree Code Academy so we would like to work together with parents to find the right class options for your student. 
+
+If you decide to withdraw your student from our program, ***you would need to provide us with a WRITTEN notice to btreecode@gmail.com at least seven days before the next tuition billing cycle.*** There are no refunds for early termination of enrollment. 
 
