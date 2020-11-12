@@ -46,7 +46,7 @@ Homework was turned in on time and it shows effort and great quality.
 **Makeup Packet: Attendance plays a critical role in learning code. Therefore, there will be no refund for a missed class. Instead, we will provide a makeup packet that consists of lecture slides, videos, written instructions, and exercises.** 
 Please understand that preparing a makeup packet takes our effort and time and it is a way for us to support absentees. Because when we make it, we make sure that it’s detailed enough for absentees to work on the missed material on their own with ease. 
 
-☑ However, If there is a class with the same level and progress as the missed class, a student may take the class instead of receiving the makeup packet. 
+However, If there is a class with the same level and progress as the missed class, a student may take the class instead of receiving the makeup packet. 
 
 **Absent Notice:**  We still need to be notified of a student’s absence from parents at least 24 hours prior to the class time as it allows us to prepare a makeup packet properly. To notify us of your student’s absence, please email us at btreecode@gmail.com or text us at 949.409.1341.
 
