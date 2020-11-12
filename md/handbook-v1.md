@@ -6,7 +6,7 @@ Our mission is to help our students to develop a deep and life-long foundation o
 
 ---
 
-# Communication between parents and Btree Code Academy
+## Communication between parents and Btree Code Academy
 
 ## A. Parent Portal
 
